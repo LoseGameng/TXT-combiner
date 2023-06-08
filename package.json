@@ -1,0 +1,30 @@
+{
+  "name": "txt-combiner",
+  "version": "1.0.0",
+  "description": "Project for summer practice",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/BOMBYASCHER/TXT-combiner.git"
+  },
+  "author": "Kamanin Daniil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BOMBYASCHER/TXT-combiner/issues"
+  },
+  "homepage": "https://github.com/BOMBYASCHER/TXT-combiner#readme",
+  "devDependencies": {
+    "eslint": "^8.42.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.27.5",
+    "jest": "^29.5.0",
+    "simple-git-hooks": "^2.8.1"
+  },
+  "dependencies": {
+    "commander": "^10.0.1"
+  }
+}
