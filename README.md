@@ -7,3 +7,18 @@
 ### Info
 
 Project for summer practice
+
+### Setup
+```bash
+make install
+```
+
+### Run tests
+```bash
+make test
+```
+
+### Run code coverage
+```bash
+make test-coverage
+```
